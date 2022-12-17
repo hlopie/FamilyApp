@@ -1,5 +1,5 @@
 # FamilyApp
-Simple Java Spring Boot app with mySQL database
+Simple Java Spring Boot app with mySQL database\n
 What you need:
 1. Apache maven https://maven.apache.org/download.cgi
 
